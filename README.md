@@ -1,1 +1,1 @@
-# A dedicated ropository to fill up with my cool python projects 
+##🐍 Um repositório dedicado para alguns projetos bacanas em python 🐍
