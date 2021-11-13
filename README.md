@@ -2,6 +2,6 @@
 ### - Projetos feitos até então: 
 
 - ✅ Solucionador de Sudoku.
-- 🔨 Verificador de CPF.
+- ✅ Verificador de CPF.
 - 💡 Encontro de menor caminho.
 - 💡 Solucionador do mundo do wumpus.
