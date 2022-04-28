@@ -34,3 +34,7 @@ def valida_cpf():
             print("CPF INVALIDO")
 
 valida_cpf()
+
+"""
+Adicionado via github
+"""
